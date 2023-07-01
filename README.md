@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @johnreb20
-- 👀 I’m interested in Robotics, Haptics and AR/VR
-- 🌱 I’m currently learning CHAI3D
+- 👀 I’m interested in Robotics,Multi-Agent Reinforcement Learning and Game Theory
 - 💞️ I’m looking to collaborate on my Interest
 - 📫 How to reach me +91-9833466996
 
