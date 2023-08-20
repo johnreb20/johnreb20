@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @johnreb20
+- 👋 Hi, I’m John Rebeiro
 - 👀 I’m interested in Robotics,Multi-Agent Reinforcement Learning and Game Theory
-- 💞️ I’m looking to collaborate on my Interest
+- 💞️ Open to Collab to disturb the equilibrium 
 - 📫 How to reach me +91-9833466996
 
 <!---
