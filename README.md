@@ -2,6 +2,30 @@
 👋 Hi, I’m John Rebeiro<br>👀 I’m interested in Robotics,Multi-Agent Reinforcement Learning and Game Theory<br>💞️ Open to Collab to disturb the equilibrium<br>📫 How to reach rebjohn20@gmail.com
 
 
+                              +-----------------+
+       +--------------------- |                 |
+       |                      |      Agent      |
+       |                      |                 | +---------------------+
+       |         +----------> |                 |                       |
+       |         |            +-----------------+                       |
+       |         |                                                      |
+ state |         | reward                                               | action
+ S(t)  |         | r(t)                                                 | a(t)
+       |         |                                                      |
+       |         | +                                                    |
+       |         | |  r(t+1) +----------------------------+             |
+       |         +-----------+                            |             |
+       |           |         |                            | <-----------+
+       |           |         |      Environment           |
+       |           |  S(t+1) |                            |
+       +---------------------+                            |
+                   |         +----------------------------+
+                   +
+
+ * Sutton and Barto (1998)
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/john-rebeiro)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rebeiro_john) 
 
