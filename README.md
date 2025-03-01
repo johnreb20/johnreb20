@@ -41,14 +41,15 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=johnreb20&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## Robots List
+
+## List of Robots worked on
 
 | Robot Name  | Image  |
 |------------|--------|
-| **TurtleBot 4** | ![TurtleBot](https://github.com/johnreb20/johnreb20/blob/main/images/Turtlebot-4.png?raw=true) |
-| **Kinova Gen 3** | ![Spot](https://via.placeholder.com/150) |
-| **Husky A300** | ![UR5 Arm](https://via.placeholder.com/150) |
-| **MentorPi M1** | ![Fetch Robot](https://via.placeholder.com/150) |
+| **TurtleBot 4** | <img src="https://github.com/johnreb20/johnreb20/blob/main/images/Turtlebot-4.png?raw=true" width="150"/> |
+| **Kinova Gen 3** | <img src="https://github.com/johnreb20/johnreb20/blob/main/images/kinovagen3.png?raw=true" width="150"/> |
+| **Husky A300** | <img src="https://github.com/johnreb20/johnreb20/blob/main/images/husky_banner.png?raw=true" width="150"/> |
+| **MentorPi M1** | <img src="https://github.com/johnreb20/johnreb20/blob/main/images/MentorPi.jpg?raw=true" width="150"/> |
 
 
 
