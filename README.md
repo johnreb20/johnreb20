@@ -41,5 +41,16 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=johnreb20&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## Robots List
+
+| Robot Name  | Image  |
+|------------|--------|
+| **TurtleBot 4** | ![TurtleBot](https://via.placeholder.com/150) |
+| **Kinova ** | ![Spot](https://via.placeholder.com/150) |
+| **UR5 Arm** | ![UR5 Arm](https://via.placeholder.com/150) |
+| **Fetch Robot** | ![Fetch Robot](https://via.placeholder.com/150) |
+| **Nao Robot** | ![Nao Robot](https://via.placeholder.com/150) |
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
