@@ -46,10 +46,10 @@
 | Robot Name  | Image  |
 |------------|--------|
 | **TurtleBot 4** | ![TurtleBot](https://via.placeholder.com/150) |
-| **Kinova ** | ![Spot](https://via.placeholder.com/150) |
-| **UR5 Arm** | ![UR5 Arm](https://via.placeholder.com/150) |
-| **Fetch Robot** | ![Fetch Robot](https://via.placeholder.com/150) |
-| **Nao Robot** | ![Nao Robot](https://via.placeholder.com/150) |
+| **Kinova Gen 3** | ![Spot](https://via.placeholder.com/150) |
+| **Husky A300** | ![UR5 Arm](https://via.placeholder.com/150) |
+| **MentorPi M1** | ![Fetch Robot](https://via.placeholder.com/150) |
+
 
 
 
