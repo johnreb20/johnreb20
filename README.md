@@ -45,7 +45,7 @@
 
 | Robot Name  | Image  |
 |------------|--------|
-| **TurtleBot 4** | ![TurtleBot](https://via.placeholder.com/150) |
+| **TurtleBot 4** | ![TurtleBot](https://github.com/johnreb20/johnreb20/blob/main/images/Turtlebot-4.png?raw=true) |
 | **Kinova Gen 3** | ![Spot](https://via.placeholder.com/150) |
 | **Husky A300** | ![UR5 Arm](https://via.placeholder.com/150) |
 | **MentorPi M1** | ![Fetch Robot](https://via.placeholder.com/150) |
