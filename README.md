@@ -48,7 +48,7 @@
 |------------|--------|
 | **TurtleBot 4** | <img src="https://github.com/johnreb20/johnreb20/blob/main/images/Turtlebot-4.png?raw=true" width="150"/> |
 | **Kinova Gen 3** | <img src="https://github.com/johnreb20/johnreb20/blob/main/images/kinovagen3.png?raw=true" width="150"/> |
-| **Husky A300** | <img src="https://github.com/johnreb20/johnreb20/blob/main/images/husky_banner.png?raw=true" width="150"/> |
+| **Husky A200** | <img src="https://github.com/johnreb20/johnreb20/blob/main/images/husky_banner.png?raw=true" width="150"/> |
 | **MentorPi M1** | <img src="https://github.com/johnreb20/johnreb20/blob/main/images/MentorPi.jpg?raw=true" width="150"/> |
 
 
