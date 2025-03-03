@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m John Rebeiro<br>👀 I (re)search in Robotics,Multi-Agent Reinforcement Learning and Game Theory.<br>💞️ Open to Collab to disturb the equilibrium<br>💥Exploring Multi-Modal Models (vision, text, speech, touch) for robots<br>📫 How to reach rebjohn20@gmail.com<br> ✨ One commit a day, keeps the doctor away. ✨
+👋 Hi, I’m John Rebeiro<br>👀 I (re)search in Robotics,Multi-Agent Reinforcement Learning and Game Theory.<br>💞️ Open to Collab to disturb the equilibrium<br>💥Answering the question 《?》Can robots use vision, speech, touch, smell to make actions 《?》 with Multi-Modal Models for robots<br>📫 How to reach rebjohn20@gmail.com<br> ✨ One commit a day, keeps the doctor away. ✨
 
 			                             +-----------------+
 			      +--------------------- |                 |
